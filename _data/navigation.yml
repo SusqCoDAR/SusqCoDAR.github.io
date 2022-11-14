@@ -1,0 +1,20 @@
+ - name: Home
+   link: /
+
+ - name: Activities
+   link: /activities.html
+
+ - name: Chapter Officers
+   link: /officers.html
+
+ - name: History
+   link: /history.html
+
+ - name: Chapter Meetings
+   link: /meetings.html
+
+ - name: Patriots
+   link: /patriots.html
+
+ - name: Contact Us
+   link: /contact.html
