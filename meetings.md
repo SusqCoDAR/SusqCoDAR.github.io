@@ -1,3 +1,6 @@
+---
+title: Chapter Meetings
+---
 
 Meetings are held at 10:00 AM on the 2nd Saturday of the month, unless otherwise indicated, between September and June, except for January and February.
 

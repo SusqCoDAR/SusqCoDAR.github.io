@@ -1,3 +1,7 @@
+---
+title: Chapter Officers
+---
+
 The following chapter officers are currently serving for the 2022 – 2025 term of office:
  * **Regent** - Suzanne Gorman
  * **Vice Regent** - Courtney Cunningham

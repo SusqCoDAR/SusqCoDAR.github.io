@@ -1,5 +1,5 @@
 ---
-title: Susquehanna County DAR - Home
+title: Home
 date: 11/19/2022
 ---
 

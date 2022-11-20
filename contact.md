@@ -1,3 +1,7 @@
+---
+title: Contact Us
+---
+
 ## Feel Free to Contact us
 
 We will get back to you as soon as possible!
