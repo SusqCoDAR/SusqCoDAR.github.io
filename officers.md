@@ -12,6 +12,5 @@ The following chapter officers are currently serving for the 2022 – 2025 term 
  * **Chaplain** – Carol Patrick
  * **Librarian** – Lori Webster
 
-| ![Constitution Hall](/assets/images/constitution_hall.jpg){:width="300px"} |
-|:-:|
-| DAR Constitution Hall in Washington, DC |
+![Constitution Hall](/assets/images/constitution_hall.jpg){:width="300px"}
+DAR Constitution Hall in Washington, DC

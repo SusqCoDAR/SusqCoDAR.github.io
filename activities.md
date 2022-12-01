@@ -21,6 +21,5 @@ Susquehanna County Chapter NSDAR supports veterans in our community by recognizi
 
 Susquehanna County Chapter NSDAR supports prospective members with their genealogy searches.  We are hoping to expand our support of gravestone cleaning projects.
 
-| ![Member Activity](/assets/images/cemetery.jpg){:width="300px"} |
-|:-:|
-| Some caption here |
+![Member Activity](/assets/images/cemetery.jpg){:width="300px"}
+Some caption here
