@@ -1,6 +1,5 @@
 ---
-title: Home
-date: 11/19/2022
+date: 2022-11-19
 ---
 
 Welcome to the Susquehanna County Chapter, National Society of the American Revolution (NSDAR or DAR).  Our chapter serves Susquehanna County, Pennsylvania.
