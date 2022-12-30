@@ -4,3 +4,9 @@ description: Susquehanna County chapter of the Daughters of the American Revolut
 webmaster: webmaster@suscodar.org
 plugins:
   - jekyll-sitemap
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      category: "activities"
