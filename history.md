@@ -8,5 +8,5 @@ The Montrose Chapter Daughters of the American Revolution (DAR) was organized Ja
 
 To better serve the entire area, the membership voted in 2014 to change the chapter name to Susquehanna County Chapter DAR.
 
-![1925 Chapter Members](/assets/images/members_1925.jpg){:width="300px"}
+![1925 Chapter Members](/assets/images/members_1925.jpg)
 Montrose Chapter 1925, holding a George Washington Birthday Party
