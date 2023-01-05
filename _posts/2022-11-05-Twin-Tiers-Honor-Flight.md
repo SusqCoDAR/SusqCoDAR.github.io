@@ -1,3 +1,3 @@
 Regent Suzanne Gorman served as a Guardian for a Veteran on the Twin Tiers Honor Flight trip to Washington D.C. 
 
-![Member Activity](/assets/images/full group at Navy Memorial.jpg)
+![Member Activity](/assets/images/full_group_at_Navy_Memorial.jpg)
