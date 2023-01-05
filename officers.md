@@ -1,5 +1,6 @@
 ---
 title: Chapter Officers
+last_modified_at: 2023-01-04
 ---
 
 The following chapter officers are currently serving for the 2022 – 2025 term of office:
