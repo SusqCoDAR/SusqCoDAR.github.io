@@ -1,6 +1,6 @@
 ---
 title: Recent Activities
-title_heading: true
+layout: post
 ---
 
 {% include posts.html %}
