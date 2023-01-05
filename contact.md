@@ -2,17 +2,13 @@
 title: Contact Us
 ---
 
-## Feel Free to Contact us
+## We would love to hear from you!
+
+If you're interested in joining or contacting our chapter, please email our regent at [susquehannacounty@pssdar.org](mailto:susquehannacounty@pssdar.org?subject=DAR Inquiry&body=Name: <name>%0AHow to contact me: <phone number or email>%0AInquiry:){:target="_blank"}.
+
+Please include the following information to ensure we can get back to you:
+ * Full name
+ * Preferred contact method (e.g., phone number or email address)
+ * Your interest in our DAR chapter
 
 We will get back to you as soon as possible!
-
-<form action="https://formspree.io/f/xnqrrpna" method="POST">
-  <fieldset>
-    <label for="email-address">Email Address</label>
-    <input type="email" id="email-address" name="email" placeholder="email@example.com" required="">
-    <label for="message">Message</label>
-    <textarea id="message" name="message" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="DAR Contact Form Submission">
-    <input type="submit" value="Send">
-  </fieldset>
-</form>

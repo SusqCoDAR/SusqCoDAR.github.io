@@ -11,7 +11,7 @@ title: Activities
 
 Prepare now!  The application process begins in the FALL of each school years.  Check with your Guidance Counselor for information and deadlines.
 
-For more information, contact the [Susquehanna County Chapter](mailto:susquehannacounty@pssdar.org).
+For more information, contact the [Susquehanna County Chapter](/contact.html).
 
 # Patriotism
 
