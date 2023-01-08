@@ -7,6 +7,8 @@ plugins:
 defaults:
   -
     scope:
+      path: ""
       type: "posts"
     values:
       category: "activities"
+      sidebar_suffix: " Activities"
