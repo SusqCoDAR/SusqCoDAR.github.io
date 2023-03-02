@@ -2,9 +2,9 @@
 last_modified_at: 2023-01-04
 ---
 
-Welcome to the Susquehanna County Chapter, National Society of the American Revolution (NSDAR or DAR).  Our chapter serves Susquehanna County, Pennsylvania.
+# Welcome to the Susquehanna County Chapter, National Society of the American Revolution (NSDAR or DAR)  
 
-Established in 1911 as the Montrose Chapter and renamed Susquehanna County Chapter in 2014, our chapter has a long history of serving our community to promote historic preservation, education, and patriotism.
+Our chapter serves Susquehanna County, Pennsylvania.  Established in 1911 as the Montrose Chapter and renamed Susquehanna County Chapter in 2014, our chapter has a long history of serving our community to promote historic preservation, education, and patriotism.
 
 Please explore the menu above to learn about our organization and chapter.  If you would like more information about becoming a member, please [contact us](/contact.html).
 
