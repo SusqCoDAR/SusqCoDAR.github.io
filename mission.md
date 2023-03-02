@@ -10,13 +10,13 @@ last_modified_at: 2023-01-04
 
 **Good Citizens Award** is given to one senior from each of the high schools in Susquehanna County.
 
-Prepare now!  The application process begins in the FALL of each school years.  Check with your Guidance Counselor for information and deadlines.
+Prepare now!  The application process begins in the FALL of each school year.  Check with your Guidance Counselor for information and deadlines.
 
 For more information, contact the [Susquehanna County Chapter](/contact.html).
 
 # Patriotism
 
-Susquehanna County Chapter NSDAR supports veterans in our community by recognizing service to our country.  We participate in the annual Wreaths Across American, primarily in the Harford Cemetery.  Revolutionary War veterans’ gravesites have flag holders and there are plaques in the County Courthouse in remembrance of our Revolutionary War veterans.  Some of the other activities we participate in include collecting items for the Veteran’s Home residents, sending care packages to troops overseas, making baby blankets for babies of active military and supporting the veteran’s Honor Flights.
+Susquehanna County Chapter, NSDAR, supports veterans in our community by recognizing service to our country.  We participate in the annual Wreaths Across American, primarily in the Harford Cemetery.  Revolutionary War veterans’ gravesites have flag holders and there are plaques in the County Courthouse in remembrance of our Revolutionary War veterans.  Some of the other activities we participate in include collecting items for the Veteran’s Home residents, sending care packages to troops overseas, making baby blankets for babies of active military, and supporting the veteran’s Honor Flights.
 
 # Historic Preservation
 
