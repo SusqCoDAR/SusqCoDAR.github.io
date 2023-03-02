@@ -21,4 +21,4 @@ Meetings are held at 10:00 AM on the 2nd Saturday of the month, unless otherwise
 For information regarding a specific meeting topic and location, please contact our Regent at [susquehannacounty@pssdar.org](mailto:susquehannacounty@pssdar.org).
 
 ![Historical Society](/assets/images/historical_society.jpg)
-Several of our members serve as volunteer Docents at the Susquehanna County Historical Society in Montrose, PA.
+Several of our members serve as volunteer docents at the Susquehanna County Historical Society in Montrose, PA.
