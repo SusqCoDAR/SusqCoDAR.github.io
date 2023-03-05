@@ -12,8 +12,8 @@ The DAR Genealogical Research System is a database that includes the names of
 those who have already had family lineage records submitted by a descendant.
 New Patriots are added as the are proven through new DAR applications.
 
-| Patriot | Rank | State of Service | 
-|---------|------|------------------|----------|
+| Patriot | Rank | State of Service |
+|---------|------|------------------|
 |Adams, John|Lieutenant|Massachusetts|
 |Ashley, Samuel Sr|Civil Service, Public Service, Colonel|New Hampshire|
 |Avery, Jasper|Sergeant|Connecticut|

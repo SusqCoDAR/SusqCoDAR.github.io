@@ -2,7 +2,7 @@
 last_modified_at: 2023-01-04
 ---
 
-# Welcome to the Susquehanna County Chapter, National Society of the American Revolution (NSDAR or DAR)  
+# Welcome to the Susquehanna County Chapter, National Society of the American Revolution (NSDAR or DAR)
 
 Our chapter serves Susquehanna County, Pennsylvania.  Established in 1911 as the Montrose Chapter and renamed Susquehanna County Chapter in 2014, our chapter has a long history of serving our community to promote historic preservation, education, and patriotism.
 
@@ -13,7 +13,7 @@ Please explore the menu above to learn about our organization and chapter.  If y
 
 **Education** to carry out the injection of Washington in his farewell address to the American people, “To promote, as an object of primary importance, institutions for the general diffusion of knowledge.”
 
-**Patriotism** To cherish, maintain, and extend the institutions of American freedom: to foster true patriotism and love of country.	
+**Patriotism** To cherish, maintain, and extend the institutions of American freedom: to foster true patriotism and love of country.
 
 # Motto
 God, Home, and Country
