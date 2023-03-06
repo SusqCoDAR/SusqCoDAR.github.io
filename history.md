@@ -1,6 +1,6 @@
 ---
 title: History
-last_modified_at: 2023-01-04
+last_modified_at: 2023-03-02
 ---
 
 The National Society Daughters of the American Revolution (NSDAR) was founded in Washington, DC, on October 11, 1890.  It was incorporated in 1896 by an Act of Congress.
