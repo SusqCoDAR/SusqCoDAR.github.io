@@ -20,7 +20,7 @@ Susquehanna County Chapter, NSDAR, supports veterans in our community by recogni
 
 # Historic Preservation
 
-Susquehanna County Chapter NSDAR supports prospective members with their genealogy searches.  We are hoping to expand our support of gravestone cleaning projects.
+Susquehanna County Chapter, NSDAR, supports prospective members with their genealogy searches.  We are hoping to expand our support of gravestone cleaning projects.
 
 ![Member Activity](/assets/images/cemetery.jpg)
 September 2022 - DAR Memorial Service for Revolutionary soldier Silas Beardslee.
