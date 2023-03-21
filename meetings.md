@@ -1,6 +1,6 @@
 ---
 title: Chapter Meetings
-last_modified_at: 2023-03-02
+last_modified_at: 2023-03-21
 ---
 
 Meetings are held on the 2nd Saturday of the month, unless otherwise indicated, between September and June, except for January and February.
