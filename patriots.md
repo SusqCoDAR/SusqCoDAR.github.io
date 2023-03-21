@@ -5,10 +5,9 @@ last_modified_at: 2023-03-02
 
 # Our Chapter Patriots
 
-Members of the Susquehanna County Chapter, DAR, are proudly descended from a man
-or woman who, with unfailing loyalty to the cause of the American Independence,
-served for one of the colonies or states or in the United Colonies of States.
-The DAR Genealogical Research System is a database that includes the names of
+Members of the Susquehanna County Chapter, NSDAR, are proudly descended from a man
+or woman who, with unfailing loyalty to the cause of the American independence,
+served for one of the states.  The DAR Genealogical Research System (GRS) is a database that includes the names of
 those who have already had family lineage records submitted by a descendant.
 New Patriots are added as the are proven through new DAR applications.
 
