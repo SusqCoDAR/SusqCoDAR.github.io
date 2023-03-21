@@ -6,7 +6,7 @@ last_modified_at: 2023-03-21
 
 The Susquehanna County Chapter, National Society Daughters of the American Revolution (NSDAR or DAR), serves Susquehanna County, Pennsylvania.  Established in 1911 as the Montrose Chapter, NSDAR, and renamed Susquehanna County Chapter, NSDAR, in 2014, our chapter has a long history of serving our community to promote historic preservation, education, and patriotism.
 
-Please explore the menu above to learn about our organization and chapter.  If you would like more information about becoming a member, please [contact us](/contact.html).
+Please explore the menu above to learn about our organization and chapter.  If you would like more information or have any questions, please [contact us](/contact.html).
 
 # Objectives
 **Historic Preservation** 
