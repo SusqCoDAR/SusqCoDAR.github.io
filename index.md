@@ -10,7 +10,9 @@ Please explore the menu above to learn about our organization and chapter.  If y
 
 # Objectives
 **Historic Preservation** 
+
 **Education** 
+
 **Patriotism** 
 
 # Membership
