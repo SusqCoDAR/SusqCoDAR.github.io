@@ -3,11 +3,10 @@ title: History
 last_modified_at: 2023-03-02
 ---
 
-The National Society Daughters of the American Revolution (NSDAR) was founded in Washington, DC, on October 11, 1890.  It was incorporated in 1896 by an Act of Congress.
-
-The Montrose Chapter, Daughters of the American Revolution (DAR), was organized January, 1911, by Miss Alice McKean Butterfield.
-
-To better serve the entire area, the membership voted in 2014 to change the chapter name to Susquehanna County Chapter, DAR.
+The Montrose Chapter, NSDAR, was organized January, 1911.  To better serve the entire area, in 2014, the chapter members voted to change the name to Susquehanna County Chapter, NSDAR.
 
 ![1925 Chapter Members](/assets/images/members_1925.jpg)
-Montrose Chapter 1925, holding a George Washington Birthday Party
+
+        Montrose Chapter, NSDAR, in 1925, hosted a George Washington Birthday Party.
+
+  Photo credit: A. Butterfield
