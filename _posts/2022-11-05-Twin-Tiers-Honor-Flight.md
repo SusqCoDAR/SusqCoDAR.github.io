@@ -2,5 +2,5 @@ Our chapter regent served as a guardian for a veteran on the Twin Tiers Honor Fl
 
 ![Member Activity](/assets/images/full_group_at_Navy_Memorial.jpg)
 
-Photo Credit: S. Gorman
+Photo credit: S. Gorman
 
