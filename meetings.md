@@ -18,7 +18,8 @@ Meetings are held on the 2nd Saturday of the month, unless otherwise indicated, 
 | May 2023       | Beauty is in the Eye of the Beholder – Ugly Quilts |
 | June 2023      | What is Sushi Rice? |
 
-For information regarding a specific meeting topic and location, please contact the [Susquehanna County Chapter](contact.html), NSDAR.
+For information regarding a specific meeting topic and location, please contact the [chapter regent](regent@susquehannacountyDAR.org).
 
 ![Historical Society](/assets/images/historical_society.jpg)
+
 Several of our members serve as volunteer docents at the Susquehanna County Historical Society in Montrose, Pennsylvania.
