@@ -2,4 +2,4 @@ Susquehanna County Chapter, NSDAR, members attend the Pennsylvania State Society
 
 ![Member Activity](/assets/images/Fall_Meeting_2022.jpg)
 
-Photo Credit: S. Gorman
+Photo credit: S. Gorman
