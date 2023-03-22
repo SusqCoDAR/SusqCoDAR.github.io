@@ -10,7 +10,8 @@ or woman who, with unfailing loyalty to the cause of the American independence,
 served for one of the states.  The DAR Genealogical Research System ([GRS](https://services.dar.org/members/dar_research/search/default.cfm?tab_id=0&national_number=daradmin)) is a database that includes the names of those who have already had family lineage records submitted by a descendant.
 New Patriots are added as they are proven.
 
-<table class-"styled">
+<table>
+  
 <tr>
   <th>Patriot</th>
   <th>Service</th>
