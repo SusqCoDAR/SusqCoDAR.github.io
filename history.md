@@ -1,6 +1,6 @@
 ---
 title: History
-last_modified_at: 2023-03-02
+last_modified_at: 2023-03-21
 ---
 
 The Montrose Chapter, NSDAR, was organized January, 1911.  To better serve the entire area, in 2014, the chapter members voted to change the name to Susquehanna County Chapter, NSDAR.
