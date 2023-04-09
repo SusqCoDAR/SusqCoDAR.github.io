@@ -4,8 +4,8 @@
  - name: Mission
    link: /mission.html
 
- - name: Activities
-   link: /activities.html
+# - name: Activities
+#   link: /activities.html
 
  - name: History
    link: /history.html
