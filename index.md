@@ -8,6 +8,8 @@ The Susquehanna County Chapter, National Society Daughters of the American Revol
 
 Please explore the menu above to learn about our organization and chapter.  If you would like more information or have any questions, please [contact us](/contact.html).
 
+![DAR Logo](/assets/images/dar_logo.jpg)
+
 # Objectives
 **Historic Preservation** 
 
@@ -22,5 +24,3 @@ Click [here](https://www.dar.org/national-society/become-member) for information
 The National Society Daughters of the American Revolution is a great resource for beginning your search.  Click [here](https://www.dar.org).
 
 Contact our chapter for more information on beginning your journey into membership.  Click [here](/contact.html).
-
-![DAR Logo](/assets/images/dar_logo.jpg)
