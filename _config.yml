@@ -4,6 +4,7 @@ description: Susquehanna County chapter of the Daughters of the American Revolut
 banner-text: Susquehanna County Chapter, NSDAR, Montrose, PA
 banner-credit: "Photo credit for top banner photograph: S. Dyson"
 webmaster: webmaster@susquehannacountydar.org
+google_analytics: G-ECZXZ02JNP
 plugins:
   - jekyll-sitemap
 defaults:
