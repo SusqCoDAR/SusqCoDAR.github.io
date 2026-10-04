@@ -23,11 +23,11 @@ jobs:
       - name: Update modification dates
         run: ./.github/scripts/update-modified-dates.sh
 
-      - name: 
+      - name: Commit updated modification dates
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: |+
             Update page modified dates
 
-            NO_UPDATE_MODIFIED_DATE 
+            NO_UPDATE_MODIFIED_DATE
 

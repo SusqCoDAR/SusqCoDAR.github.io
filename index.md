@@ -11,11 +11,11 @@ Please explore the menu above to learn about our organization and chapter.  If y
 ![DAR Logo](/assets/images/dar_logo.jpg)
 
 # Objectives
-**Historic Preservation** 
+**Historic Preservation**
 
-**Education** 
+**Education**
 
-**Patriotism** 
+**Patriotism**
 
 # Membership
 Click [here](https://www.dar.org/national-society/become-member) for information on becoming a member.
