@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2023-04-08
+last_modified_at: 2026-10-03
 ---
 
 # Welcome to the Susquehanna County Chapter, NSDAR
